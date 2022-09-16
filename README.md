@@ -146,3 +146,4 @@ After this you will need to set up Algolia with your Medusa server, and then you
 - [GitHub](https://github.com/vercel/next.js)
 - [Documentation](https://nextjs.org/docs)
 # Medusa-Store
+# Medusa-Store
