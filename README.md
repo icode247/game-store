@@ -14,6 +14,8 @@ An opensource ecommerce game store built using Medusa and Nextjs. It inlcudes a 
 
 ### Preview
 
+![preview](./image1.png)
+
 ## Set up Project
 
 ### Prerequisites
@@ -29,12 +31,12 @@ Before you start with the tutorial make sure you have
 
 1. Clone the repository:
 
-        git clone https://github.com/suhailkakar/react-native-medusajs
+        git clone https://github.com/icode247/game-store
     
     
 2. Change directory and install dependencies:
 
-       cd react-native-medusajs
+       cd game-store
        npm install
      
 3. Start the app
