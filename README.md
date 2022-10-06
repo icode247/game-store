@@ -1,6 +1,6 @@
 ## Medusa Game Store
 
-![](./image2.png)
+![](./image.png)
 
 ## About
 
