@@ -1,5 +1,7 @@
 ## Medusa Game Store
 
+![](./image2.png)
+
 ## About
 
 ### Participants
