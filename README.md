@@ -1,6 +1,6 @@
 ## Medusa Game Store
 
-![](./image.png)
+![](./grid-cover-template.png)
 
 ## About
 
